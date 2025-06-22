@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 
+<img src="https://usagif.com/wp-content/uploads/gifs/handshake-46.gif" width="50">
 
 <!--
 **vegacastillo/vegacastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -13,10 +13,20 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
+
 #
 
+### 📈 Stats & Contribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vegacastillo&show_icons=true&theme=merko" alt="GitHub Stats" />
+</div>
+
+##
 
 <!--
+GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+
 **vegacastillo/vegacastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 
 Here are some ideas to get you started:

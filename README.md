@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://usagif.com/wp-content/uploads/gifs/handshake-46.gif" width="50">
-  <br>
-  <h1>Hi there</h1>
+  <h1>Hi there!  <img src="https://usagif.com/wp-content/uploads/gifs/handshake-46.gif" width="50">  I'm Ernesto</h1>
+</div>
+<div align="center">
+  
+**` Analista de Datos | Consultor de Planificación Financiera | Ayudo a Empresas a Transformar su Información en Estrategias Efectivas`**  
+**` NIC 29; Sección 31 (NIIF-PYME’s) | NIC-12; Sección 29 (NIIF-PYME’s) | SQL | Python | R | Excel (LAMBDA Functions, VBA, PQ)`**
 </div>
 
 ##
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
-
-
 #
 
 

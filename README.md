@@ -1,11 +1,15 @@
 <div align="center">
   <h1>Hi there!  <img src="https://usagif.com/wp-content/uploads/gifs/handshake-46.gif" width="50">  I'm Ernesto</h1>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=&color=00FF00&center=false&width=435&lines=Hola..!+++soy+Ernesto+Vega+Castillo;Lcdo.+en+Contadur%C3%ADa+P%C3%BAblica+y+Data+Analysts...;Ayudo+a+Empresas+a+transformar+su+++++++++...;+Informaci%C3%B3n+en+Estrategias+Efectivas++...)](https://git.io/typing-svg)
+
 <div align="center">
   
 **` Analista de Datos | Consultor de Planificación Financiera | Ayudo a Empresas a Transformar su Información en Estrategias Efectivas`**  
 **` NIC 29; Sección 31 (NIIF-PYME’s) | NIC-12; Sección 29 (NIIF-PYME’s) | SQL | Python | R | Excel (LAMBDA Functions, VBA, PQ)`**
 </div>
+
 
 ##
 <picture>

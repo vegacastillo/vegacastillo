@@ -2,7 +2,7 @@
   <h1>Hi there!  <img src="https://usagif.com/wp-content/uploads/gifs/handshake-46.gif" width="50">  I'm Ernesto</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bonheur+Royale&size=35&duration=2500&pause=&color=00FF00&center=false&width=435&lines=Hola..!+++soy+Ernesto+Vega+Castillo;Lcdo.+en+Contadur%C3%ADa+P%C3%BAblica+y+Data+Analysts...;+Ayudo+a+Empresas+a+transformar+su+++++++++...;+Informaci%C3%B3n+en+Estrategias+Efectivas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&duration=2500&pause=&color=00FF00&center=false&width=435&lines=Hola..!+++soy+Ernesto+Vega+Castillo;Lcdo.+en+Contadur%C3%ADa+P%C3%BAblica+y+Data+Analysts...;+Ayudo+a+Empresas+a+transformar+Informaci%C3%B3n;En+Estrategias+Efectivas...)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -25,9 +25,10 @@
 </picture>
 
 #
-### 🔥 Retos y comunidad
-Participo activamente en retos de análisis de datos en LinkedIn, compartiendo soluciones avanzadas en Excel dinámico (LET, LAMBDAS), R y Python.
-
+> 🔥 Retos y comunidad
+> 
+> Participo activamente en retos de análisis de datos en *[LinkedIn](https://www.linkedin.com/in/vegacastilloe)*, compartiendo soluciones avanzadas en Excel dinámico (LET, LAMBDAS), R y Python.
+#
 
 ## 🛠 Tecnologías y herramientas  
 
